@@ -1,0 +1,31 @@
+
+Nombre del Equipo Git Aliance
+----------------------------
+integrante 1
+----------------------------
+Nombre del Equipo: git Aliance
+Nombre integrante Ruben Nacimba
+Teléfono integrante 0963536808
+Gustos o Hobbies integrante kit boxing -  malcon el del medio anime Dragon ball Z 
+alias en git integrante :RubenNacimba
+--------------------------
+integrante2
+--------------------------
+Nombre del Equipo: git Aliance
+Nombre integrante: Vladimir Manzano 	
+Teléfono integrante 0984450505
+Gustos o Hobbies integrante Futbol y el Cine me gusta leer libros de metafisica me gusta comer comida de la costa me gusta disfrutar de una buena comida en compañía de mi esposa soy casado tengo 4 hijos  3 niñas y un niño ya mismo de una de mis hijas me dicen suegro jajaja soy empresario me gusta hacer negocios me dedico a esta ares del software sin ser programador por eso estoy aca aprendiendo de cero me gusta jugar a la play fifa y todo los juegos que tengan que ver con aventuras y niveles etc animes de mi época tengo 43 años mazinger z y dragón ball yugy oh ranma 1/2 las peliculas de accion suspenso comedia y terror  
+alias en git integrante :vmanzano1711
+-----------------------------
+integrante 3
+------------------------------
+Nombre del Equipo: git Aliance
+Nombre integrante Miguel Apodo Novato 
+Teléfono integrante 0939006526
+Gustos-Hobbies- Deporte etc: Me gusta el básquet aunque soy malísimo, pero me gusta y de paso dataso soy bien enano así que casi no sirvo pa' eso, pero me gusta.
+libro: lo siento casi no leo así que no tengo uno en especifico, que será la Biblia, na me mentiría a mi mismo jsajsjasa, cualquier cosa "Cartuchos negros"
+Película: tengo pésima educación cinematográfica pero diría Bad Boys 4 Serie: no se Cobra Kai?
+Anime: Dejando los clásicos y los mas vistos o comunes Me llama la atención (Shinpan tenku sinceramente no me acuerdo como se llama, pondrán el nombre en español xd) o Invasión desde las alturas y mi personaje favorito es el Sniper Mask Y el plus Soy adicto a la Coca Cola y al minecraft, aunque nunca lo he jugado en serio pues me va pésimo podría decir que soy arquitecto en minecraft eso si me gusta hacer muy de repente
+
+
+alias en git integrante :novaniaco
