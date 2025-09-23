@@ -1,13 +1,20 @@
 <html>
     <head>
+        <link href="test.css" rel="stylesheet"/>
         <script src="test.js"></script>
         <script src="utilitarios.js"></script>
     </head>
     <body>
         <h3>Ingrese su Nombre</h3>
+        <div class="cajas">
         <input type="text" id="txtNombre"/>
+        </div>
         <h3>Ingrese su Apellido</h3>
+        <div class="cajas">
         <input type="text" id="txtApellido"/>
-        <input type="button" value="SALUDAR" onclick="saludar();"/>
+        </div>
+        <div class="botones">
+            <input type="button" value="SALUDAR" class="estiloBoton" onclick="saludar();" />
+        </div>
     </body>
 </html>
