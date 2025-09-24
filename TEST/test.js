@@ -1,10 +1,17 @@
-saludar=function(){
+function saludar() {
+  let nombre = recuperarTexto("txtNombre");
+  let apellido = recuperarTexto("txtApellido");
 
-    let nombre=recuperarTexto("txtNombre");
-    let apellido=recuperarTexto("txtApellido");
-    let mensajeBienvenida ="Bienvenido "+nombre+" "+apellido;
-    console.log(mensajeBienvenida);
+  // Generar saludo usando la función del archivo serviciosTest.js
+  let saludo = generarSaludo(nombre, apellido);
 
-    mostrarTexto("lblResultado", mensajeBienvenida);
-    mostrarTextoEnCaja("txtNombre","");
+  // Mostrar en consola para validación técnica
+  console.log(saludo);
+
+  // Mostrar en pantalla dentro del h4
+  mostrarTexto("lblResultado", saludo);
+
+  // Limpiar la caja de nombre
+  mostrarTextoEnCaja("txtNombre", "");
+  mostrarTextoEnCaja("txtApellido", "");
 }
