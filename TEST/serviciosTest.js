@@ -1,6 +1,5 @@
-generarSaludo=function(){
-    let nombre=recuperarTexto("txtNombre");
-    let apellido=recuperarTexto("txtApellido");
-    let mensajeBienvenida= "HOLA: "+nombre+" "+ apellido;
-    mostrarTexto("lblResultado",mensajeBienvenida);
+generarSaludo=function(nombre, apellido){
+    let mensaje;
+    mensaje="HOLA"+nombre+" "+ apellido;
+    return mensaje;
 }
